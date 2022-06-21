@@ -8,7 +8,7 @@ I study linguistics and literature in Portuguese and Spanish at UFSCar.
 
 👯 I'm looking to collaborate with translation and technical documentation
 
-<div> <a href="[(https://www.linkedin.com/in/laura-gazana-a50032150/)]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
+<div> <a href="https://www.linkedin.com/in/laura-gazana-a50032150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 
 <div>
 <a href="https://github.com/llauragazana">
