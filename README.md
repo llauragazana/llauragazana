@@ -2,7 +2,7 @@
 My name is Laura (or just "Lau") and my nickname is llauragazana✨
 
 🔭 I am currently an intern at the Institute of Mathematics and Computer Science (ICMC) of the University of São Paulo. I work in the institute's communication area, creating notes and posts on ICMC's social networks and site, as well as publicizing events, workshops, courses and other university activities!
-I study linguistics and literature in Portuguese and Spanish at UFSCar and participate in a research group in the field of NLP. Working at ICMC and doing research in computational linguistics, I got closer to the area of ​​technology.
+I study linguistics and literature in Portuguese and Spanish at UFSCar.
 
 🌱 I am currently learning about developing documents, user guides and other written materials.
 
